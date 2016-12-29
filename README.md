@@ -15,5 +15,5 @@ scrapy crawl peruvian_food -o peruvian_food.json
 csv
 
 ```
-scrapy crawl peruvian_food -o peruvian_food.json
+scrapy crawl peruvian_food -o peruvian_food.csv
 ```
